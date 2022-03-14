@@ -1,0 +1,13 @@
+{
+  "name": "@revgaming/base64cipher",
+  "author": "estagent <estagent@gmail.com>",
+  "version": "1.0.1",
+  "homepage": "https://github.com/estagent/base64cipher",
+  "description": "token",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "token"
+  ],
+  "scripts": {}
+}
